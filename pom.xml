@@ -12,6 +12,9 @@
 		<jackson.version>2.5.3</jackson.version>
 	</properties>
 <!--Change 1 in IAM001 -->
+<!--Change 2 in IAM001 -->
+<!--Change 3 in IAM001 -->
+<!--Change 4 in IAM001 -->
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework</groupId>
