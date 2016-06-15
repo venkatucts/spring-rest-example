@@ -11,7 +11,7 @@
 		<springframework.version>4.2.0.RELEASE</springframework.version>
 		<jackson.version>2.5.3</jackson.version>
 	</properties>
-
+<!--Change 1 in IAM001 -->
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework</groupId>
