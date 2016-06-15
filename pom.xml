@@ -12,12 +12,15 @@
 		<jackson.version>2.5.3</jackson.version>
 	</properties>
 <!--Change 1 in IAM001 -->
+<<<<<<< HEAD
 <!--Change 2 in IAM001 -->
 <!--Change 3 in IAM001 -->
 <!--Change 4 in IAM001 -->
 <!--Change 1 in DEV -->
 <!--Change 2 in DEV -->
 <!--Change 2 in DEV -->
+=======
+>>>>>>> parent of 59ca8a9... development progress in IAM001
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework</groupId>
